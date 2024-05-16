@@ -19,6 +19,11 @@
 			- /view/:id 	-- view individual journal entry
 			- /edit/:id 	-- do we wanna do this or do another "edit in place" thing?
 
+# The app view
+
+This is how it looks after a 2 hour work on it:
+![Journal app built using React ](./public/journal-app-CA.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
